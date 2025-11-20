@@ -17,7 +17,7 @@
   <!-- GitHub Stats Badges with new color palette -->
   <p>
     <img src="https://img.shields.io/github/forks/NABEED-MD/NABEED-Ai?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
-    <img src="https://img.shields.io/github/followers/Arslan-MD?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/NABEED-MD?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/last-commit/NABEED-MD/NABEED-Ai?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
     <img src="https://img.shields.io/github/repo-size/NABEED-MD/NABEED-Ai?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
     <img src="https://img.shields.io/github/package-json/v/NABEED-MD/NABEED-Ai?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
