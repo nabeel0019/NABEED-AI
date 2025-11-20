@@ -39,10 +39,3 @@ To start, fork this repository to your own GitHub account by clicking the button
 <a href="https://github.com/NABEED-MD/NABEED-AI/fork"><img src="https://img.shields.io/github/forks/NABEED-MD/NABEED-AI?style=for-the-badge&logo=github&color=4c1&label=Fork%20NABEED-AI" alt="Fork NABEED-AI" /></a>
 
 ---
-
-### 🔐 Step 2: Get Your Session ID
-
-Authenticate using **one** of the methods below to generate your `Session ID`.
-
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow Preview" />
