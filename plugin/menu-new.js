@@ -40,7 +40,7 @@ cmd({
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363402582092742@newsletter',
-                newsletterName: NABEED-MD,
+                newsletterName: 'NABEED-MD',
                 serverMessageId: 143
             }
         };
